@@ -1,0 +1,9 @@
+Flask
+gunicorn
+requests >= 2.0
+future
+line-bot-sdk
+bs4
+urllib3
+
+
